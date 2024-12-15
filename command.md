@@ -24,6 +24,18 @@ pip install notebook
 ```
 this library covers the numerical python and data analysis. Notebook help you to run sequential code in the browser. 
 
+```
+pip install matplotlib
+```
+Matplotlib is a plotting library for Python that helps you create visualizations like:
+
+```
+pip install seaborn
+```
+This library helps you to plot the data in the form of graph.
+
+
+
 
 
 
